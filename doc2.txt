@@ -1,1 +1,1 @@
-doc2_new
+doc2.txt was changed
